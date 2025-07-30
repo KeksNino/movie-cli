@@ -1,5 +1,5 @@
 # movie-cli
 cli tool inspired by ani-cli to watch movies and series through the terminal
 
-## Websites that are scraped:
+## Websites that are scraped
 Coming Soon
